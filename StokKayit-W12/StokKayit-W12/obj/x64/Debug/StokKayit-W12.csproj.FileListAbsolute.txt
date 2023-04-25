@@ -1,0 +1,11 @@
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\StokKayit-W12\StokKayit-W12\bin\x64\Debug\StokKayit-W12.exe.config
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\StokKayit-W12\StokKayit-W12\bin\x64\Debug\StokKayit-W12.exe
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\StokKayit-W12\StokKayit-W12\bin\x64\Debug\StokKayit-W12.pdb
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\StokKayit-W12\StokKayit-W12\obj\x64\Debug\StokKayit-W12.csproj.AssemblyReference.cache
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\StokKayit-W12\StokKayit-W12\obj\x64\Debug\StokKayit-W12.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\StokKayit-W12\StokKayit-W12\obj\x64\Debug\StokKayit_W12.Form1.resources
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\StokKayit-W12\StokKayit-W12\obj\x64\Debug\StokKayit_W12.Properties.Resources.resources
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\StokKayit-W12\StokKayit-W12\obj\x64\Debug\StokKayit-W12.csproj.GenerateResource.cache
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\StokKayit-W12\StokKayit-W12\obj\x64\Debug\StokKayit-W12.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\StokKayit-W12\StokKayit-W12\obj\x64\Debug\StokKayit-W12.exe
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\StokKayit-W12\StokKayit-W12\obj\x64\Debug\StokKayit-W12.pdb
